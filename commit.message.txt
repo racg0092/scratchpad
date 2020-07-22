@@ -1,0 +1,7 @@
+ADDING commit.message.txt
+
+I have added the commit.message.txt.
+
+This file was added to provide a template and test
+the git functionality to add commit messages from
+a file.
